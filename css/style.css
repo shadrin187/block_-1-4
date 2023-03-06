@@ -139,6 +139,7 @@ button:active {
   height: 32px;
   left: 0px;
   opacity: 0;
+  transition: opacity ease-in .5s
 }
 
 .menu__link:hover::before {
